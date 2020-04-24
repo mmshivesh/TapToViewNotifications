@@ -1,0 +1,10 @@
+Package: com.shivesh.taptoviewnotification
+Name: TapToViewNotification
+Description: A simple tweak to view notifications on tap on the lock screen. Especially useful on an SE which doesn't support this on long press.
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Maintainer: Shivesh <mmshivesh@gmail.com>
+Author: Shivesh <mmshivesh@gmail.com>
